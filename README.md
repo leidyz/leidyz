@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Dice game with Laravel API REST.<br><br>Passionate PHP Fullstack Developer in the Making | Open to Exciting Opportunities<br><br>🎓 Currently honing my skills in Fullstack Development with a focus on PHP, Laravel framework, and beyond at IT Academy. Over the past 8 months, I've immersed myself in the fundamentals of HTML, CSS, PHP, JAVA, MySQL, MongoDB, PHPUnit, MVC architecture, and API creation, laying the groundwork for robust back-end development.<br><br>💡Aspirations:<br>With a keen eye on the future, I aspire to contribute as a Fullstack Developer, collaborating with open-minded and ambitious professionals. Eager to embrace challenges and contribute to innovative projects that push the boundaries of technology.
+I am currently working on Dice game with Laravel API REST.<br><br>Passionate PHP Fullstack Developer | Open to Exciting Opportunities<br><br> Eager to embrace challenges and contribute to innovative projects that push the boundaries of technology.
 
 
 
