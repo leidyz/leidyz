@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on ITA Profiles, which is a platform where recuiters can match with students.<br><br>Passionate PHP Fullstack Developer | Open to Exciting Opportunities<br><br> Eager to embrace challenges and contribute to innovative projects that push the boundaries of technology.
+I am currently working on ITA Profiles, which is a platform where recuiters can match with students.<br><br>Passionate Fullstack Developer | Open to Exciting Opportunities<br><br> Eager to embrace challenges and contribute to innovative projects that push the boundaries of technology.
 
 
 
